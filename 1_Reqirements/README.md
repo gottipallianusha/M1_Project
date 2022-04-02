@@ -3,7 +3,8 @@ Project Title:Employee Records Management
 REQUIREMENTS:
 
 Introduction
-Employee record management
+
+Employee record management is used to manage records and to organise in a required manner.
 Choices:		
 1.Add Record		
 2. List Record		
