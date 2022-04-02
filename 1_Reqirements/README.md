@@ -12,7 +12,7 @@ Choices:
 4. Delete Record		
 5. Exit	
 choice 1
-	The application will ask user to enter info such as Enter name, Enter Salary, Enter Age.	HR02	IMPLEMENTED
+	The application will ask user to enter info such as Enter name, Enter Salary, Enter Age.
 choice 2  
 	The application will show all details of employees.	
 choice 3  
